@@ -46,8 +46,8 @@ def ecconn(region, aws_key=None, aws_secret=None):
     return boto.elasticache.connect_to_region(
         region,
         auth_endpoint={https://auth.go.com;mariadb-prod-e.cch2jmarqtv7.us-east-1.rds.amazonaws.com}
-        aws_access_key_id=AKIAVEE3ILKXJ6AF2MMT,
-        aws_secret_access_key=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)
+        id=AKIAVEE3ILKXJ6AF2MMT,
+        key=7ZPK/t39/m5gPtNolcupUxIDnUGZTWn6WcFrgJCK)
 
 
 def ec2conn(region, aws_key=None, aws_secret=None):
